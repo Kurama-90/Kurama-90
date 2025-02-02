@@ -50,6 +50,14 @@ Welcome to my GitHub profile! I'm a mechanical engineer with a passion for progr
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kurama-90/Kurama-90/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kurama-90/Kurama-90/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kurama-90/Kurama-90/output/github-snake.svg" />
+</picture>
+
+---
+
 ### 📊 **GitHub Stats**
 
 ![Mohamed-Hamed90's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Hamed90&show_icons=true&theme=dark&hide_border=true)
