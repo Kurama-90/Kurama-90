@@ -7,7 +7,7 @@
 
 ### Hi there, I'm Mohamed Hamed
 
-Welcome to my GitHub profile! I'm a mechanical engineer with a passion for programming, specializing in **data science**, **automation**, and **web development**. I love turning complex problems into elegant solutions through code. Let's build something amazing together! 🚀
+Welcome to my GitHub profile! I'm from a technical background in electromechanics, with a passion for programming, specializing in **data science**, **automation**, and **web development**. I love turning complex problems into elegant solutions through code. Let's build something amazing together! 🚀
 
 ---
 
