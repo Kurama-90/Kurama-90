@@ -84,7 +84,7 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 ‎🎯 You are visitor number:
 ‎
-‎![Visitors](https://count.getloli.com/get/@Kurama-90?theme=miku)
+‎![Visitors](https://count.getloli.com/get/@Kurama-90?theme=rule34)
 ‎
 
 Thanks for visiting my profile! Have a great day!
