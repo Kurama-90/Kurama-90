@@ -86,7 +86,7 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 
 ‎<p align="center">
-‎![Visitors](https://count.getloli.com/get/@Kurama-90?theme=nixietube-1)
+‎![Visitors](https://count.getloli.com/get/@Kurama-90?theme=3d-num)
 ‎</p>
 ---
 
