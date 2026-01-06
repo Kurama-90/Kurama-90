@@ -1,12 +1,12 @@
  <a href="https://git.io/typing-svg">
    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Arial&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hi+there+,+I'm+Mohamed+Hamed"
+      src="https://readme-typing-svg.herokuapp.com?font=Arial&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hi+there+,+I'm+Mohamed+Hamed;Welcome+to+my+GitHub+profile!"
       alt="Typing SVG"
    />
 </a>
 
 
-<br><br><br>Welcome to my GitHub profile! I'm from a technical background in electromechanics, with a passion for programming, specializing in **data science**, **automation**, and **web development**. I love turning complex problems into elegant solutions through code. Let's build something amazing together! 🚀
+<br><br><br>I'm from a technical background in electromechanics, with a passion for programming, specializing in **data science**, **automation**, and **web development**. I love turning complex problems into elegant solutions through code. Let's build something amazing together! 🚀
 
 ---
 
