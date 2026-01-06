@@ -6,7 +6,7 @@
 </a>
 
 <br><p align="center">
-<img src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif" height="200">
+<img src="https://64.media.tumblr.com/02648a34627f058bb3ea408aa06ff537/57c69f3a8388c24a-b9/s1280x1920/e75e44dbf6694d5f8104915b6b6d09861a0685b9.gif" height="200">
 </p>
 
 <br>I'm from a technical background in electromechanics, with a passion for programming, specializing in **data science**, **automation**, and **web development**. I love turning complex problems into elegant solutions through code. Let's build something amazing together! 🚀
