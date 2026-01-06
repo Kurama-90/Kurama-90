@@ -6,7 +6,7 @@
 </a><br>
 
 
-Welcome to my GitHub profile! I'm from a technical background in electromechanics, with a passion for programming, specializing in **data science**, **automation**, and **web development**. I love turning complex problems into elegant solutions through code. Let's build something amazing together! 🚀
+<br>Welcome to my GitHub profile! I'm from a technical background in electromechanics, with a passion for programming, specializing in **data science**, **automation**, and **web development**. I love turning complex problems into elegant solutions through code. Let's build something amazing together! 🚀
 
 ---
 
