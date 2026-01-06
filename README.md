@@ -6,7 +6,7 @@
 </a>
 
 <br><p align="center">
-<img src="https://i.makeagif.com/media/3-14-2023/7csqUi.gif" height="300">
+![32wu4fyl70q91](https://github.com/user-attachments/assets/b6c5ca88-f51e-4fef-88e7-d28247edf365)
 </p>
 
 <br>I'm from a technical background in electromechanics, with a passion for programming, specializing in **data science**, **automation**, and **web development**. I love turning complex problems into elegant solutions through code. Let's build something amazing together! 🚀
