@@ -5,7 +5,8 @@
    />
 </a>
 
-![Uploading aniyuki-solo-leveling-gif-17.gif…]()
+![aniyuki-solo-leveling-gif-17](https://github.com/user-attachments/assets/b96d3111-9709-4b2d-bad5-6f51c95fe7f0)
+
 
 <br><br><br>I'm from a technical background in electromechanics, with a passion for programming, specializing in **data science**, **automation**, and **web development**. I love turning complex problems into elegant solutions through code. Let's build something amazing together! 🚀
 
