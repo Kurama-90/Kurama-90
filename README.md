@@ -62,10 +62,9 @@
 
 ### 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kurama-90&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kurama-90&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurama-90&layout=compact&theme=dark&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurama-90&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
 
 ---
 
