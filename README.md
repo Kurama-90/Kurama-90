@@ -75,10 +75,6 @@ Did you know? I once automated a 6-hour manual task into a 5-minute script! 🚀
 ### 🌟 **Let's Collaborate!**
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out if you'd like to work together or just chat about tech! 😊
 
-<br><p align="center">
-  <img src="https://i.pinimg.com/736x/a5/92/19/a59219f43215655031ff5306f81e6885.jpg" width="400">
-</p>
-
 ---
 
 ‎🎯 You are visitor number:
@@ -90,4 +86,8 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 ---
 
 Thanks for visiting my profile! Have a great day!
+
+<br><p align="center">
+  <img src="https://i.pinimg.com/736x/a5/92/19/a59219f43215655031ff5306f81e6885.jpg" width="400">
+</p>
 
