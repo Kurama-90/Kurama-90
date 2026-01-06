@@ -6,7 +6,7 @@
 </a>
 
 <br><p align="center">
-  <img src="https://i.pinimg.com/originals/9f/b0/e9/9fb0e9a48e6b312f4725d9497d31c46a.gif" width="600">
+  <img src="https://i.pinimg.com/originals/9f/b0/e9/9fb0e9a48e6b312f4725d9497d31c46a.gif" width="500">
 </p>
 
 
@@ -88,6 +88,6 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 Thanks for visiting my profile! Have a great day!
 
 <br><p align="center">
-  <img src="https://i.pinimg.com/736x/a5/92/19/a59219f43215655031ff5306f81e6885.jpg" width="600">
+  <img src="https://i.pinimg.com/736x/a5/92/19/a59219f43215655031ff5306f81e6885.jpg" width="400">
 </p>
 
