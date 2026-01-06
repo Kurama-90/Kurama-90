@@ -1,15 +1,10 @@
-<div align="center">
-
-  <h1>👾 Bienvenue sur mon GitHub 👾</h1>
-  
-  </div>
-
-  <a href="https://git.io/typing-svg">
+ <a href="https://git.io/typing-svg">
    <img
       src="https://readme-typing-svg.herokuapp.com?font=Valorant&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&lines=Hi+there+,+I'm+Mohamed+Hamed"
       alt="Typing SVG"
    />
 </a>
+</div>
 
 
 Welcome to my GitHub profile! I'm from a technical background in electromechanics, with a passion for programming, specializing in **data science**, **automation**, and **web development**. I love turning complex problems into elegant solutions through code. Let's build something amazing together! 🚀
